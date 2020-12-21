@@ -43,6 +43,7 @@ distributed @ file:///C:/ci/distributed_1605066566400/work
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
+fastapi
 fastcache==1.1.0
 filelock==3.0.12
 flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
@@ -52,9 +53,11 @@ future==0.18.2
 gevent @ file:///C:/ci/gevent_1601397624717/work
 glob2==0.7
 greenlet @ file:///C:/ci/greenlet_1600874076725/work
+gunicorn==19.9.0
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
+httptools
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
@@ -212,6 +215,8 @@ typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/w
 ujson @ file:///C:/ci/ujson_1602523369547/work
 unicodecsv==0.14.1
 urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+uvicorn
+uvloop
 watchdog @ file:///C:/ci/watchdog_1593446515400/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
